@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "title": "LOTR",
+      "author": "JRR",
+      "id": 1
+    },
+    {
+      "title": "Vedic Math",
+      "author": "Srinivas Ramanujan",
+      "id": 2
+    },
+    {
+      "title": "Hobbit",
+      "author": "JRR",
+      "id": 3
+    },
+    {
+      "title": "Spring",
+      "author": "Rod Johnson",
+      "id": 4
+    },
+    {
+      "title": "Ironman",
+      "author": "Stanley",
+      "id": 5
+    },
+    {
+      "title": "The Prestige",
+      "author": "Christopher Nolan",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
